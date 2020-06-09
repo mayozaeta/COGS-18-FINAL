@@ -1,0 +1,5 @@
+# If your project has any requirements not included in anaconda, include them here
+
+Tkinter module is required 
+
+GUI would present most optimally in Spyder
